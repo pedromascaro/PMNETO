@@ -1,2 +1,3 @@
 openpyx==3.0.14
+streamlit==1.0.0
 
