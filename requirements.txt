@@ -1,1 +1,2 @@
-openpyx==3.0.7
+openpyx==3.0.14
+
