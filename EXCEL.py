@@ -38,7 +38,7 @@ def find_and_save_duplicates(df1, df2):
         st.error(f"Erro ao encontrar e salvar duplicatas: {e}")
 
 def main():
-    st.title("Detector de Duplicatas")
+    st.title("Detector de Duplicadas")
 
     # Solicitar upload da primeira planilha
     uploaded_file1 = st.file_uploader("Faça o upload da primeira planilha (.xlsx)", type=["xlsx"])
